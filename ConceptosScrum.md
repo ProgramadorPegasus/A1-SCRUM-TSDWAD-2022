@@ -1,8 +1,10 @@
-**ARTEFACTO**
+*Repositorio del Grupo DW1 de la Tecnicatura en Desarrollo Web y Aplicaciones Móviles*
+
+#**ARTEFACTOS EN SCRUM**
 
 En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son:
 
-1) Product Backlog: es la principal fuente de información, refleja el estado real del trabajo pendiente de implementar en el producto, así como el ya realizado.
+1. *Product Backlog:* es la principal fuente de información, refleja el estado real del trabajo pendiente de implementar en el producto, así como el ya realizado.
 Debe ser gestionado en exclusiva por el Product Owner, siendo su principal función la de priorizar aquellos elementos que tienen más valor en cada etapa y detallarlos para que el equipo de desarrollo sea capaz de valorarlos y ejecutarlos.
 Un Product Backlog contiene distintos elementos:
 *Funcionalidades
@@ -11,13 +13,13 @@ Un Product Backlog contiene distintos elementos:
 *Tareas técnicas.
 *Trabajo de investigación.
 
-2)Sprint Backlog: permite visualizar, durante cada Sprint, aquellos elementos que aún no han empezado a desarrollarse, aquellos que sí y quiénes están trabajando en los mismos, así como aquellos que están esperando a desplegarse o están completamente terminados. Este artefacto permite entender cuál es la evolución del trabajo, así como hacer un análisis de riesgos. Dado que cada Sprint tiene una meta específica y hay elementos seleccionados del Product Backlog que tienen más o menos valor, el Sprint Backlog permite analizar hasta donde se ha cumplido el objetivo y que se podría eliminar. De esta forma, maximizamos el retorno de la inversión en desarrollo.
+2. *Sprint Backlog:* permite visualizar, durante cada Sprint, aquellos elementos que aún no han empezado a desarrollarse, aquellos que sí y quiénes están trabajando en los mismos, así como aquellos que están esperando a desplegarse o están completamente terminados. Este artefacto permite entender cuál es la evolución del trabajo, así como hacer un análisis de riesgos. Dado que cada Sprint tiene una meta específica y hay elementos seleccionados del Product Backlog que tienen más o menos valor, el Sprint Backlog permite analizar hasta donde se ha cumplido el objetivo y que se podría eliminar. De esta forma, maximizamos el retorno de la inversión en desarrollo.
 
-3)Incremento: es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
+3. *Incremento:* es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
 
-**ROLES**
+#**ROLES DE SCRUM**
 
-Product Owner
+###Product Owner
 
 El Product Owner o dueño del producto es conocido como “la voz del cliente”, ya que debe entender las necesidades y prioridades de los stakeholders, incluyendo los clientes y los usuarios. Este rol es responsable, entre otras cosas, de garantizar una comunicación clara sobre el producto, de definir los criterios de aceptación y asegurar que se cumplan. Dicho de otra forma, el Product Owner es responsable de asegurar que el equipo Scrum ofrezca valor.
 
@@ -37,7 +39,8 @@ A continuación se enlistan algunas de las responsabilidades del Product Owner q
 • Representar a los usuarios del producto o servicio con un profundo conocimiento de la comunidad de usuarios.
 • Asegurar los recursos financieros del proyecto.
 
-Scrum Master
+###Scrum Master
+
 El Scrum Master debe tener una actitud de líder servicial (Servant Leader) para el equipo Scrum. Es quien modera y facilita las interacciones del equipo como facilitador y motivador. Este rol es responsable de asegurar un ambiente de trabajo productivo para el equipo, debe protegerlo de influencias externas, despejar los obstáculos y garantizar que se cumplan los principios, aspectos y procesos de la metodología Scrum.
 
 A continuación se enlistan algunas de las responsabilidades del Scrum Master que consideramos más relevantes:
@@ -53,7 +56,7 @@ A continuación se enlistan algunas de las responsabilidades del Scrum Master qu
 • Se asegura que los problemas que afectan al equipo Scrum se discutan y se resuelvan.
 • Garantizar que exista un ambiente ideal para el equipo Scrum.
 
-Scrum Team
+###Scrum Team
 
 El Scrum Team también es conocido como equipo de desarrollo, ya que es responsable del desarrollo, servicio o de cualquier otro resultado. Consiste en un grupo de personas que trabajan en las historias de usuario en la lista de pendientes del sprint para crear los entregables del proyecto. Nadie, ni siquiera el Scrum Master, indica al Scrum Team cómo cumplir los objetivos del sprint, es un equipo auto gestionado y multifuncional que cuenta con todas las habilidades necesarias. El tamaño óptimo de un equipo Scrum es de seis a diez miembros.
 
