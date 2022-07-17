@@ -1,4 +1,4 @@
-<h1 align="PROYECTO GRUPAL - AULA 1 - TSDWAD ISPC 2022</h1>
+<h1 align="center">PROYECTO GRUPAL - AULA 1 - TSDWAD ISPC 2022</h1>
            
 ** INDICE ** 
  * [Artefactos](#id1)
