@@ -22,7 +22,7 @@
 # Artefactos 
 <div id='id2' />
 
-### ¿Qué  son los artefactos?
+### ¿Qué son los artefactos?
 
 En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son:
 
