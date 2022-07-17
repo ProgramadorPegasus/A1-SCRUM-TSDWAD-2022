@@ -19,7 +19,7 @@
 
 <h2>Actividades a realizar:</h2>
 <ul>
-<li>Modificar README.md y renombrarlo como ConceptosScrum.md. Poner en el conceptos fundamentales de Metodologia Scrum.</li>
-<li>En el archivo ConceptosScrum subir los conceptos fundamentos scrum.</li>
+<li>Modificar README.md y renombrarlo como ConceptosScrum.md.</li>
+<li>En el archivo ConceptosScrum ir subiendo o modificar los conceptos,fundamentos del Scrum.</li>
 <li>Cada integrante del grupo debera crear su Curriculum vitae en pdf y subirlo a el repositorio.</li>
 </ul>
