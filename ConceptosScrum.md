@@ -22,10 +22,6 @@
 # Artefactos Scrum
 <div id='id2' />          
 
-*Repositorio del Grupo DW1 de la Tecnicatura en Desarrollo Web y Aplicaciones Móviles*
-
-**ARTEFACTOS EN SCRUM**
-
 En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son:
 
 1. *Product Backlog:* es la principal fuente de información, refleja el estado real del trabajo pendiente de implementar en el producto, así como el ya realizado.
