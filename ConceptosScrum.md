@@ -172,6 +172,6 @@ Finalmente, también colabora con el resto de la organización con actividades c
 <div id='id15' />
 
 ## Autores:
-<h4 align="center"> Alumnos del aula 6 colaboradores en este repositorio</h4>
+<h4 align="center"> Alumnos del aula 1 colaboradores en este repositorio</h4>
 
 <div align="center" />
