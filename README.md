@@ -5,14 +5,14 @@
 <h2>Grupo de estudio ISPC Aula 1.</h2>
 <h3>Integrantes:</h3>
 <ul>
-<li>juan carlos narvaez</li>
-<li>Yamila Caseres</li>
+<li>Juan Carlos Narvaez</li>
+<li>Yamila Cáceres</li>
 <li>Emilio Vera</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Cintia Osorio Duarte</li>
+<li>Luis Hector Pesenda</li>
+<li>Daiana Daniela Diaz</li>
+<li>Lucas Ivan Arguello</li>
+<li>Yanela Segui</li>
 <li></li>
 <li></li>
  </ul>
