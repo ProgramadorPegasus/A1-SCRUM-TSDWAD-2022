@@ -1,3 +1,27 @@
+<h1 align="PROYECTO GRUPAL - AULA 1 - TSDWAD ISPC 2022</h1>
+           
+** INDICE ** 
+ * [Artefactos](#id1)
+    + [¿Qué  son los artefactos?](#id2)
+    + [Product Backlog](#id3)
+    + [Sprint Backlog](#id4)
+    + [Increment](#id5)
+* [Ceremonias](#id6)
+    + [Sprint Planning](#id7)
+    + [Daily Scrum](#id8)
+    + [Sprint Review](#id9)
+    + [Sprint Retrospective](#id10)
+* [Roles](#id11)
+    + [Developers](#id12)
+    + [Product Owner](#id13)
+    + [Scrum Master](#id14)
+* [Autores](#id15)
+***
+<div id='id1' />
+
+# Artefactos Scrum
+<div id='id2' />          
+
 *Repositorio del Grupo DW1 de la Tecnicatura en Desarrollo Web y Aplicaciones Móviles*
 
 **ARTEFACTOS EN SCRUM**
