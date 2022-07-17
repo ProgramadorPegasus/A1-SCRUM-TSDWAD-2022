@@ -1,4 +1,4 @@
-<img src="Banner.png">
+[![Banner.png](https://i.postimg.cc/8PkmkXkx/Banner.png)](https://postimg.cc/K4VMJNM5)
 
 <h1>ISPC -Tecnicatura Superior en Desarrollo Web y Aplicaciones digitales- </h1>
 
@@ -6,8 +6,8 @@
 <h3>Integrantes:</h3>
 <ul>
 <li>juan carlos narvaez</li>
-<li></li>
-<li></li>
+<li>Yamila Caseres</li>
+<li>Emilio Vera</li>
 <li></li>
 <li></li>
 <li></li>
