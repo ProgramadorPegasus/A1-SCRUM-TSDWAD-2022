@@ -17,6 +17,8 @@
 <li></li>
  </ul>
 
+### _Valoracion final programacion_ :heavy_check_mark:
+
 Introducción a la programación:
 Cada estudiante deberá  resolver  UN (1) ejercicio a elección (diferentes entre cada uno de los integrantes) de los 10 ejercicios propuestos por el docente y subir en su propia rama del GitHub.
 
