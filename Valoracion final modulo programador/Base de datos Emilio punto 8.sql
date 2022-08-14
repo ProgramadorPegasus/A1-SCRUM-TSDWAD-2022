@@ -39,14 +39,6 @@ INSERT INTO peluqueriacanina.Perro (
 Nombre, Fecha_nacimiento, Sexo, DNI_dueno)
 VALUES("Colita", "2012-10-12", "Femenino", 36525227);
 
-/*Punto 9. Actualizar la dirección del dueño*/
-SELECT*FROM peluqueriacanina.Dueno; #Consulto los datos de los dueños
-
-UPDATE peluqueriacanina.Dueno
-SET Direccion = "Libertad 123"
-WHERE DNI =36525227;
-
-SELECT*FROM peluqueriacanina.Dueno; #Consulto los datos del dueño para verificar que cambió la dirección
 
 /*Punto 4 Actualizar fecha nacimiento perro 
 /*Punto 8 Insertar un nuevo registro en la tabla historial de un perro cuyo ID Perro es igual a 10, Emilio vera
