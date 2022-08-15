@@ -13,8 +13,6 @@
 <li>Daiana Daniela Diaz</li>
 <li>Lucas Ivan Arguello</li>
 <li>Yanela Segui</li>
-<li></li>
-<li></li>
  </ul>
 
 ### _Valoracion final programacion_ :heavy_check_mark:
